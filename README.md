@@ -23,7 +23,7 @@ GIT download executables - ONLY FIRST TIME INSTALL
 ~$ git clone https://github.com/isaiahrahmany/WiFi-Bye  
 ~$ cd Wifi-Bye  
 ~$ sudo -i  
-~$ python Deauth.py  
+~$ python deauth.py  
 
 FOLLOW ALL PROMPTS PRECISELY:
 
