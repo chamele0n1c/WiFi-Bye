@@ -26,7 +26,7 @@ To get started: you will want first off to be running
 ~$ sudo -i\
 ~$ python Deauth.py\\
 
-FOLLOW ALL PROMPTS PRECISELY:\\
+FOLLOW ALL PROMPTS PRECISELY:\  
 
 Ex: Enter Number of Cards -> 2\
 Ex: Enter Card Names -> mon0, mon1\
