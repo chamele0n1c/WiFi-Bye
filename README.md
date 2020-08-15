@@ -17,7 +17,7 @@ To get started: you will want first off to be running:
   
  *MAX UPTO 4 WIRELESS WLAN CARDs    
  *enable airmon-ng on all cards prior to execution  
- *then execute from a commandline  
+ *then execute from a cmd
  
 *GIT download executables - ONLY FIRST TIME INSTALL 
 
