@@ -9,9 +9,7 @@ To get started: you will want first off to be running
  
  *YOU WILL ALSO NEED !
  
- Monitor Capable WiFi card operability
- Using the built in Aireplay-ng Program of the
- Aircrack-ng Software Suite for Jamming Comms
+ Monitor Capable WiFi card(s)
  
  *all cards need to be in monitor Mode prior!
  
