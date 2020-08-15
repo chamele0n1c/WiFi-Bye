@@ -25,8 +25,10 @@ To get started: you will want first off to be running
 
 !(change dir)
 ~$ cd Wifi-Bye
+
 !(gain root privilege)
 ~$ sudo -i
+
 !(execute program)
 ~$ python Deauth.py
 
