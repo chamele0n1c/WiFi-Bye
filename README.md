@@ -1,7 +1,7 @@
 # WiFi-Bye
 Jam WaveLan WiFi 2.4GHz and 5GHz using Python and Kali Linux upto 12 AP's
 
-# How To(s):
+How To(s):
 To get started: you will want first off to be running
 
  - ParrotSec Linux OS 
@@ -13,9 +13,11 @@ To get started: you will want first off to be running
  
   - *all cards need to be in monitor Mode prior!
  
-  - ex, mon0, mon1, mon2, mon3
+  Ex:  mon0,  mon1,  mon2,  mon3
+  
+  
  
- MAX UPTO 4 WIRELESS WLAN CARDS
+ *MAX UPTO 4 WIRELESS WLAN CARDS
  
  *enable airmon-ng on all cards prior to execution
  
