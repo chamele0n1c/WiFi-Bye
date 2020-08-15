@@ -51,7 +51,7 @@ def main():
 		os.system("clear")
 
 		print "INTERFACE: %s" % i
-
+		print "MAX AP TARGETS: 3
 		swcmod = input("Enter the number of AP's BSSID's to switch on this card(1-3): ")
 
 		if swcmod > 3 or swcmod < 1:
