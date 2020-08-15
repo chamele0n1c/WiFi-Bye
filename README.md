@@ -17,13 +17,19 @@ To get started: you will want first off to be running
  ex, mon0, mon1, mon2, mon3
  
  MAX UPTO 4 WIRELESS WLAN CARDS
+ *enable airmon on all cards prior
+ *then execute from a commandline:
  
- then execute from a commandline:
- 
+!(download executables / ONLY FIRST TIME INSTALL)
 ~$ git clone https://github.com/isaiahrahmany/WiFi-Bye
+
+!(change dir)
 ~$ cd Wifi-Bye
+!(gain root privilege)
 ~$ sudo -i
+!(execute program)
 ~$ python Deauth.py
+
 
 FOLLOW ALL PROMPTS PRECISELY
 Ex: Enter Number of Cards -> 2
