@@ -23,15 +23,11 @@ To get started: you will want first off to be running
 !(download executables / ONLY FIRST TIME INSTALL)
 ~$ git clone https://github.com/isaiahrahmany/WiFi-Bye
 
-!(change dir)
 ~$ cd Wifi-Bye
 
-!(gain root privilege)
 ~$ sudo -i
 
-!(execute program)
 ~$ python Deauth.py
-
 
 FOLLOW ALL PROMPTS PRECISELY
 Ex: Enter Number of Cards -> 2
