@@ -7,17 +7,18 @@ To get started: you will want first off to be running
  - ParrotSec Linux OS 
  - Kali Linux OS
  
- *YOU WILL ALSO NEED !
+ # *YOU WILL ALSO NEED !
  
- Monitor Capable WiFi card(s)
+ Monitor Capable WiFi card(s):
  
- *all cards need to be in monitor Mode prior!
+  - *all cards need to be in monitor Mode prior!
  
- ex, mon0, mon1, mon2, mon3
+  - ex, mon0, mon1, mon2, mon3
  
  MAX UPTO 4 WIRELESS WLAN CARDS
  
- *enable airmon on all cards prior
+ *enable airmon-ng on all cards prior to execution
+ 
  
  *then execute from a commandline:
  
