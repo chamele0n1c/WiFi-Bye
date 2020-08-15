@@ -11,15 +11,14 @@ To get started: you will want first off to be running
  
  Monitor Capable WiFi card(s):
  
-  - *all cards need to be in monitor Mode prior!\
-  -  Ex:  mon0,  mon1,  mon2,  mon3\  
+  - *all cards need to be in monitor Mode prior! \
+  -  Ex:  mon0,  mon1,  mon2,  mon3 \  
   
- *MAX UPTO 4 WIRELESS WLAN CARDS\
- *enable airmon-ng on all cards prior to execution\
- *then execute from a commandline:\  
+ *MAX UPTO 4 WIRELESS WLAN CARD S\
+ *enable airmon-ng on all cards prior to execution \
+ *then execute from a commandline: \
  
-!(download executables / ONLY FIRST TIME INSTALL)\
-
+(download executables / ONLY FIRST TIME INSTALL) \
 
 ~$ git clone https://github.com/isaiahrahmany/WiFi-Bye\
 ~$ cd Wifi-Bye\
