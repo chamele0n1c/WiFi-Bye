@@ -1,5 +1,7 @@
 # WiFi-Bye
-Jam WaveLan WiFi 2.4GHz and 5GHz using Python and Kali Linux upto 12 AP's
+Kali Linux and ParrotSec Linux Compatable WiFi Jammer Utility  
+This WiFi Jamming utlity utilized Python and Aircrack-ng  
+*Both 2.4GHz and 5GHz Channels are compatable in this program
 
 # How To(s):
 To get started: you will want first off to be running
