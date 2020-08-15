@@ -1,11 +1,10 @@
 # WiFi-Bye
 Kali Linux and ParrotSec Linux Compatable WiFi Jammer Utility  
-This WiFi Jamming utlity utilized Python and Aircrack-ng  
+This WiFi Jamming utlity utilizes Python and Aircrack-ng software
 *Both 2.4GHz and 5GHz Channels are compatable in this program
 
-# How To(s):
-To get started: you will want first off to be running
-
+# Startup How To(s):
+To get started: you will want first off to be running:
  - ParrotSec Linux OS 
  - Kali Linux OS
  
