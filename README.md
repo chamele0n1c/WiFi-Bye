@@ -21,7 +21,7 @@ To get started: you will want first off to be running:
  
 *GIT download executables - ONLY FIRST TIME INSTALL 
 
-~$ git clone https://github.com/isaiahrahmany/WiFi-Bye  
+~$ git clone https://github.com/chamele0n1c/WiFi-Bye  
 ~$ cd Wifi-Bye  
 ~$ sudo -i  
 ~$ python deauth.py  
