@@ -1,5 +1,5 @@
 # WiFi-Bye
-*Nix 802.11 Deauthentication Alternator, Deauth multiple BSSIDS
+*Nix 802.11 Deauthentication Alternator, Deauth multiple BSSIDS\
 This WiFi Jamming utlity utilizes Python and Aircrack-ng software  
 
 # Startup How To(s):
