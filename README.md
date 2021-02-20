@@ -3,7 +3,7 @@
 This WiFi Jamming utlity utilizes Python and Aircrack-ng software  
 
 # Startup How To(s):
-To get started: you will want first off to be running:
+To get started: you will first off want to use:
  - ParrotSec Linux OS 
  - Kali Linux OS
  
