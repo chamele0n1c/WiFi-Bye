@@ -23,7 +23,7 @@ To get started: you will want first off to be running:
 ~$ git clone https://github.com/chamele0n1c/WiFi-Bye  \
 ~$ cd Wifi-Bye \
 ~$ sudo su \
-~$ python deauth \
+~$ python deauth
 
 *FOLLOW ALL PROMPTS PRECISELY:
 
