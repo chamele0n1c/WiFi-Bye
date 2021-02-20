@@ -6,14 +6,7 @@ This WiFi Jamming utlity utilizes Python and Aircrack-ng software
 To get started: you will first off want to use:
  - ParrotSec Linux OS 
  - Kali Linux OS
- 
-*YOU WILL ALSO NEED !
- 
- Monitor Capable WiFi card(s):
- 
-  - *all cards need to be in monitor Mode prior!  
-  -  Ex:  mon0,  mon1,  mon2,  mon3  
-  
+
  *MAX UPTO 4 WIRELESS WLAN CARDs    
  *enable airmon-ng on all cards prior to execution  
  *then execute from a cmd
