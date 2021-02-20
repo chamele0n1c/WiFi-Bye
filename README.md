@@ -30,7 +30,7 @@ To get started: you will want first off to be running:
 Ex: Enter Number of Cards -> 1\
 Ex: Enter Card Names -> wlan0mon\
 Ex: Enter Bssids To Deauth on mon0 -> 3\
-Ex: Enter BSSID1 -> EE:FF:DD:33:22:11
+Ex: Enter BSSID1 -> EE:FF:DD:33:22:11\
 Ex: Enter BSSID2 -> EE:FF:ZZ:33:55:11
 
  
